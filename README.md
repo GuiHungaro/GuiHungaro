@@ -20,5 +20,5 @@
 <div> 
 
 
-- 💡 Atualmente trabalhando com educação na área de Inteligência Articial.
+- 💡 Atualmente trabalho com educação na área de Inteligência Articial.
 - 📖 Estudando Ciência de Dados na FIAP.
