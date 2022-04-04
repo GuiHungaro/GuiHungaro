@@ -21,4 +21,4 @@
 
 
 - 💡 Atualmente trabalho com educação na área de Inteligência Articial.
-- 📖 Estudando Ciência de Dados na FIAP
+- 📖 Estudando Ciência de Dados na FIAP.
