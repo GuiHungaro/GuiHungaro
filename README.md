@@ -1,6 +1,5 @@
-### Hi there! It's me Guilherme!
-
 <div>
+  <p>Hi there! It's me Guilherme!</p>
   <a href = "#">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#">
