@@ -17,7 +17,7 @@
 - 💡 Full-stack Django Developer.
 
   
-  <style>html,body { padding: 0; margin:0; }</style>
+<style>html,body { padding: 0; margin:0; }</style>
 <div style="font-family:Arial,Helvetica,sans-serif; line-height: 1.5; font-weight: normal; font-size: 15px; color: #2F3044; min-height: 100%; margin:0; padding:0; width:100%; background-color:#edf2f7">
 	<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;margin:0 auto; padding:0; max-width:600px">
 		<tbody>
