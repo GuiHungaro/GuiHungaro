@@ -9,14 +9,25 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="PostgresSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+
+<div> 
+  <a href = "#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"></a> 
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"></a> 
+<div> 
+
   
+
 ##
   
   
 <div> 
   <a href = "mailto:gui.web.developer@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-húngaro-b78839217" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-húngaro-b78839217">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div> 
 
