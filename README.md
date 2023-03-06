@@ -9,25 +9,22 @@
 </div>
 
 <br></br>
-  
-<div> 
+
+<div>
   <a href = "#">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"></a> 
   <a href="#">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"></a> 
-<div> 
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"></a>
+<div>
 
-  
+<br></br>
 
-##
-  
-  
-<div> 
+<div>
   <a href = "mailto:gui.web.developer@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div> 
+<div>
 
 
 - 💡 Full-stack Django Developer.
