@@ -27,10 +27,7 @@
 <div> 
   <a href = "mailto:gui.web.developer@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-húngaro-b78839217">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div> 
 
 
-- 💡 Atualmente trabalho com educação na área de Inteligência Articial.
-- 📖 Estudando Ciência de Dados na FIAP.
+- 💡 Full-stack Django Developer.
