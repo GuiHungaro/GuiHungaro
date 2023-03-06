@@ -1,14 +1,10 @@
-### Olá! Sou o Guilherme Húngaro. 
+### Hi there! It's me Guilherme!
 
 <div align="center">
   <a href="https://github.com/GuiHungaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiHungaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiHungaro&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="PostgresSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
 
 <div> 
   <a href = "#">
